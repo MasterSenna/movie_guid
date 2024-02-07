@@ -1,4 +1,4 @@
-# 🎬 Guia de Filmes
+# 🎬 Guia de Filmes JavaScript
 
 Este é um guia de filmes simples que permite aos usuários pesquisar por filmes e obter informações sobre eles.
 
